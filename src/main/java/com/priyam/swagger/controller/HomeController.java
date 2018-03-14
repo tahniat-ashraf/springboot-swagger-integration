@@ -13,4 +13,7 @@ public class HomeController {
     public String index() {
         return "redirect:swagger-ui.html";
     }
+
+    //This is a sample comment to see git update effect
+
 }
