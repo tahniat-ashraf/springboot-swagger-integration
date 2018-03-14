@@ -16,4 +16,6 @@ public class HomeController {
 
     //This is a sample comment to see git update effect
 
+    //just like that
+
 }
